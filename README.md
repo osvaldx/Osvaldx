@@ -43,12 +43,9 @@
 <p align="center"><img src="https://api.iconify.design/lucide:box.svg?color=%23a1a1aa" width="16" height="16" valign="middle"/> <strong>Frameworks & Libs</strong></p>
 
 <a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Spring_Boot-18181b?style=flat-square&logo=springboot&logoColor=d4d4d8" alt="Spring Boot"/></a>
-<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Angular-18181b?style=flat-square&logo=angular&logoColor=d4d4d8" alt="Angular"/></a>
-<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=d4d4d8" alt="Node.js"/></a>
-<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/NestJS-18181b?style=flat-square&logo=nestjs&logoColor=d4d4d8" alt="NestJS"/></a>
-<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Express-18181b?style=flat-square&logo=express&logoColor=d4d4d8" alt="Express"/></a>
-<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Tailwind-18181b?style=flat-square&logo=tailwindcss&logoColor=d4d4d8" alt="Tailwind"/></a>
 <a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Tauri-18181b?style=flat-square&logo=tauri&logoColor=d4d4d8" alt="Tauri"/></a>
+<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Angular-18181b?style=flat-square&logo=angular&logoColor=d4d4d8" alt="Angular"/></a>
+<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Tailwind-18181b?style=flat-square&logo=tailwindcss&logoColor=d4d4d8" alt="Tailwind"/></a>
 </td>
 
 </tr>
@@ -70,7 +67,6 @@
 <a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=d4d4d8" alt="Git"/></a>
 <a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=d4d4d8" alt="GitHub"/></a>
 <a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=d4d4d8" alt="Linux"/></a>
-<a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/VS_Code-18181b?style=flat-square&logo=visualstudiocode&logoColor=d4d4d8" alt="VS Code"/></a>
 <a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/IntelliJ-18181b?style=flat-square&logo=intellijidea&logoColor=d4d4d8" alt="IntelliJ"/></a>
 <a href="https://github.com/osvaldx" style="text-decoration: none;"><img src="https://img.shields.io/badge/Postman-18181b?style=flat-square&logo=postman&logoColor=d4d4d8" alt="Postman"/></a>
 </td>
